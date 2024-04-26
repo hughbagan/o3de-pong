@@ -1,0 +1,48 @@
+{
+    "project_name": "Pong",
+    "version": "1.0.0",
+    "project_id": "{2AC4AC42-BADB-4188-AB5E-6D2AFFC51E60}",
+    "origin": "The primary repo for Pong goes here: i.e. http://www.mydomain.com",
+    "license": "What license Pong uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "Pong",
+    "summary": "A short description of Pong.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "Pong"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de-sdk",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "Pong",
+    "gem_names": [
+        "Pong",
+        "Atom",
+        "AudioSystem",
+        "AWSCore",
+        "CameraFramework",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EditorPythonBindings",
+        "EMotionFX",
+        "GameState",
+        "ImGui",
+        "LandscapeCanvas",
+        "LyShine",
+        "PhysX",
+        "PrimitiveAssets",
+        "PrefabBuilder",
+        "SaveData",
+        "ScriptCanvasPhysics",
+        "ScriptEvents",
+        "StartingPointInput",
+        "TextureAtlas",
+        "WhiteBox"
+    ],
+    "engine_version": "2.2.1",
+    "product_name": "Pong",
+    "executable_name": "Pong"
+}
